@@ -32,7 +32,7 @@ Parameter values:
 • F = 0.035 units  
 • Grid dimensions = 64x64x1  
 
-Results of the simulation:  
+Results of the simulation: (Click on the picture to view the simulation)  
 
 [![Watch the video](RD_init.png)](https://youtu.be/RtX9uDPRO7E)  
   

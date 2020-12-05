@@ -37,6 +37,4 @@ Results of the simulation:
 ![](RD_GS.gif)  
   
 Software used for the above simulation:  
-Tim Hutton, Robert Munafo, Andrew Trevorrow, Tom Rokicki, Dan Wills. "Ready, a
-cross-platform implementation of various reaction-diffusion systems." https://github.
-com/GollyGang/ready
+Tim Hutton, Robert Munafo, Andrew Trevorrow, Tom Rokicki, Dan Wills. "Ready, a cross-platform implementation of various reaction-diffusion systems." https://github.com/GollyGang/ready

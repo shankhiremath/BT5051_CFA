@@ -34,9 +34,7 @@ Parameter values:
 
 Results of the simulation:  
 
-[![Watch the video](iitm.jpg)](https://youtu.be/RtX9uDPRO7E)
-
-  https://www.youtube.com/watch?v=RtX9uDPRO7E
+[![Watch the video](RD_init.png)](https://youtu.be/RtX9uDPRO7E)  
   
 Software used for the above simulation:  
 Tim Hutton, Robert Munafo, Andrew Trevorrow, Tom Rokicki, Dan Wills. "Ready, a cross-platform implementation of various reaction-diffusion systems." https://github.com/GollyGang/ready

@@ -19,7 +19,11 @@ Case 4:
 ![](case4.gif)
 
 II. Information interaction was modeled using the Gray-Scott Model (a reaction-diffusion system).
-![](Gray-Scott.png)
+![](Gray-Scott.png)  
+
+Suppose we took A as information that confirms bias and B as information that served as bias, then this system could represent the dynamics of information diffusion and reaction that results in bias forming information being constantly surrounded by confirming evidence/information. This type of result is not far from cognitive biases in individuals or society at large in which people crave information that confirms their inherent biases which may or may not have any truth.  
+
+This is only one interpretation. There is scope for many more interpretations, modifications of the parameters being used and the number of interacting species.  
 
 Parameter values:  
 • D<sub>A</sub> = 0.082 units  

@@ -33,9 +33,10 @@ Parameter values:
 • Grid dimensions = 64x64x1  
 
 Results of the simulation:  
-  
-<img src="RD_GS.gif" width="960" height="526"/>  
-  
+
+[![Watch the video](iitm.jpg)](https://youtu.be/RtX9uDPRO7E)
+
+  https://www.youtube.com/watch?v=RtX9uDPRO7E
   
 Software used for the above simulation:  
 Tim Hutton, Robert Munafo, Andrew Trevorrow, Tom Rokicki, Dan Wills. "Ready, a cross-platform implementation of various reaction-diffusion systems." https://github.com/GollyGang/ready

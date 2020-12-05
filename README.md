@@ -33,5 +33,6 @@ Parameter values:
 • Grid dimensions = 64x64x1  
 
 Results of the simulation:  
+  
 ![](RD_GS.gif)  
 

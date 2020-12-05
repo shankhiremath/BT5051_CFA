@@ -34,7 +34,7 @@ Parameter values:
 
 Results of the simulation:  
   
-<img src="RD_GS.gif" width="1280" height="702"/>  
+<img src="RD_GS.gif" width="960" height="526"/>  
   
   
 Software used for the above simulation:  

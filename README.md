@@ -21,11 +21,11 @@ Case 4:
 II. Information interaction was modeled using the Gray-Scott Model (a reaction-diffusion system).
 ![](Gray-Scott.png)
 
-Parameter values:
-• D<sub>A</sub> = 0.082 units
-• D<sub>B</sub> = 0.041 units
-• k = 0.064 units
-• F = 0.035 units
-• Grid dimensions = 64x64x1
+Parameter values:  
+• D<sub>A</sub> = 0.082 units  
+• D<sub>B</sub> = 0.041 units  
+• k = 0.064 units  
+• F = 0.035 units  
+• Grid dimensions = 64x64x1  
 
 Results of the simulation:
